@@ -4,10 +4,10 @@ Hexagonal-Canvas is a Minimal canvas app built with GoJS and ReactJS
 
 ## Demo
 
-[Live Demo](https://raghavyuva.github.io/hexagonal-canvas) to see the working of Hexagonal-Canvas.
+[Live Demo](https://raghavyuva.is-a.dev/Hexagonal-Canvas/) to see the working of Hexagonal-Canvas.
 
 ```bash
-https://raghavyuva.github.io/hexagonal-canvas
+https://raghavyuva.is-a.dev/Hexagonal-Canvas/
 ```
 ## Features
 - Add elements
